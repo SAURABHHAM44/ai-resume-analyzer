@@ -38,6 +38,8 @@ Your application will be available at [http://localhost:5174](http://localhost:5
 
 ![App screenshot](assets/resumind-home.jpg)
 
+![Home screenshot](assets/6EDE064A-25D9-4904-9096-ABEBEA05EAD9.jpg)
+
 ## Building for Production
 
 Create a production build:
