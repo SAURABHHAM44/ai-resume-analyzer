@@ -32,7 +32,11 @@ Start the development server with HMR:
 npm run dev
 ```
 
-Your application will be available at `http://localhost:5173`.
+Your application will be available at [http://localhost:5174](http://localhost:5174).
+
+## Screenshots
+
+![App screenshot](assets/resumind-home.jpg)
 
 ## Building for Production
 
@@ -50,7 +54,6 @@ To build and run using Docker:
 
 ```bash
 docker build -t my-app .
-
 # Run the container
 docker run -p 3000:3000 my-app
 ```
